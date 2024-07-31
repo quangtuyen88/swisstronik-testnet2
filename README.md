@@ -131,13 +131,6 @@ Contract address 2 deployed to: 0xABC
 Response: https://explorer-evm.testnet.swisstronik.com/tx/0xABC <- copy that for "the link to the contract implementation replacement transaction"
 ```
 
-## Community
 
-- https://t.me/p10nodaemon
-- https://t.me/p10node
 
-Swisstronik Ambassador `pierreneter`, `p10node`
-
-Website: https://p10node.com
-Contact: pierre@p10node.com
 
